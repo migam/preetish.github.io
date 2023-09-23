@@ -1,5 +1,5 @@
-# Personal Website 
-preetish.github.io
+### Research Interest
+Understanding natural hazards and disaster risk using combination of physics-based models, probabilistic models, and artificial intelligence. 
 
 ### Education
 PhD, Structural & Earthquake Engineering, UBC \\
