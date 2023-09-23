@@ -2,8 +2,8 @@
 preetish.github.io
 
 ### Education
-PhD, Structural & Earthquake Engineering, UBC
-MSE, Civil Systems Engineering, Johns Hopkins University
+PhD, Structural & Earthquake Engineering, UBC \\
+MSE, Civil Systems Engineering, Johns Hopkins University \\
 MS, Structural Engineering, UC Irvine
 
 ### Projects
